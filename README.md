@@ -3,11 +3,15 @@ Docker Image for Python based on Ubuntu.
 
 ## Supported tags and respective `Dockerfile` links
 
-
+- `2.7-slim-bionic` ([2.7/bionic/slim/Dockerfile](https://github.com/pyfreyr/docker-python/blob/master/2.7/bionic/slim/Dockerfile))
 - `2.7-bionic` ([2.7/bionic/Dockerfile](https://github.com/pyfreyr/docker-python/blob/master/2.7/bionic/Dockerfile))
+- `3.5-slim-bionic` ([3.5/bionic/slim/Dockerfile](https://github.com/pyfreyr/docker-python/blob/master/3.5/bionic/slim/Dockerfile))
 - `3.5-bionic` ([3.5/bionic/Dockerfile](https://github.com/pyfreyr/docker-python/blob/master/3.5/bionic/Dockerfile))
+- `3.6-slim-bionic` ([3.6/bionic/slim/Dockerfile](https://github.com/pyfreyr/docker-python/blob/master/3.6/bionic/slim/Dockerfile))
 - `3.6-bionic` ([3.6/bionic/Dockerfile](https://github.com/pyfreyr/docker-python/blob/master/3.6/bionic/Dockerfile))
+- `3.7-slim-bionic` ([3.7/bionic/slim/Dockerfile](https://github.com/pyfreyr/docker-python/blob/master/3.7/bionic/slim/Dockerfile))
 - `3.7-bionic` ([3.7/bionic/Dockerfile](https://github.com/pyfreyr/docker-python/blob/master/3.7/bionic/Dockerfile))
+
 
 
 ## How to use this image
